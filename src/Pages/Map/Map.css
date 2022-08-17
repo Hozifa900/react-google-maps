@@ -1,0 +1,12 @@
+.map{
+        width: 100%;
+        height: 70vh;
+        position: relative;
+}
+
+.map-button {
+    background-color: #ffc446;
+    position: fixed;
+    z-index: 9999;
+    top: -100px;
+}
